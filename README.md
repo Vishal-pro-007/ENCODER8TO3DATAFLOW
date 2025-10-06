@@ -46,7 +46,8 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-[EXP05-LOGIC.pdf](https://github.com/user-attachments/files/22732425/EXP05-LOGIC.pdf)
+<img width="1920" height="1032" alt="RTL EXP05" src="https://github.com/user-attachments/assets/4c8833fd-b867-46b3-899f-a5be0abfe794" />
+
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
